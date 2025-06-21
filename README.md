@@ -10,4 +10,4 @@ Important to mention!!!: to run the real quantum hardware files it is necessary 
 Absence of graph code: because some of these algorithms take a long time to run (for example the ZZ feature map with 200 data points takes around fourteen hours), 
 all the results were manually recorded, placed into their respective lists and plotted using matplotlib.
 
-The dataset used for this experiment can be found here: http://quantum-machine.org/datasets/
+The dataset used for this experiment (QM7) can be found here: http://quantum-machine.org/datasets/
