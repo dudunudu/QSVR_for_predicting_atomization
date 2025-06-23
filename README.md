@@ -8,8 +8,7 @@ They are all meant to be run independently for analysis. For slight changes (for
 Important to mention!!!: to run the real quantum hardware files (under the name swaptest) it is necessary to have an individual token from the IBM quantum simulator; otherwise the files will not run. To get the token you must have an account.
 Run those files from your terminal, the code should automatically pick a backend from the available options.
 
-Absence of graph code: because some of these algorithms take a long time to run (for example the ZZ feature map with 200 data points takes around fourteen hours), 
-all the results were manually recorded, placed into their respective lists and plotted using matplotlib.
+The results were recorded and can be found in lists at the visualization file
 
 The lightweighted models folder has the trained kernel matrix and parameters computed.
 
